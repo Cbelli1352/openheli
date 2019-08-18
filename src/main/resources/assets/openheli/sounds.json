@@ -1,0 +1,11 @@
+{
+  "obama": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "openheli:obama",
+        "stream": true
+      }
+    ]
+  }
+}

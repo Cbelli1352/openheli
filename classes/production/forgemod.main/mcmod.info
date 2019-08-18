@@ -1,0 +1,16 @@
+[
+{
+  "modid": "openheli",
+  "name": "Open Helicopters",
+  "description": "Helicopter mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Connor Belli"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
